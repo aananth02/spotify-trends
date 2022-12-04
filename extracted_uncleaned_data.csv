@@ -12,7 +12,7 @@ track_id,track_name,artist_id,artist_name,album_id,album_name,release_date,tempo
 5Uy79u5zGHEe88j81sUs4f,Sucker Punch!,1khChLj7REGqjM043PlYyn,Xdinary Heroes,0Z5qdttvpyXKKNLdqeEs27,"Hello, world!",2022-07-20,127.001,0.673,0.748,9,-3.604,0.153,0,0.434,0.616,0.0,0.0429,audio_features,4.0
 7wTqEW5nrMhvyEhEyTnOMd,The Cut That Always Bleeds,4Uc8Dsxct0oMqx0P6i60ea,Conan Gray,2CMlkzFI2oDAy5MbyV7OV5,Kid Krow,2020-03-20,136.116,0.489,0.413,0,-6.499,0.59,0,0.0639,0.246,1.0,0.0314,audio_features,4.0
 32OlwWuMpZ6b0aN2RZOeMS,Uptown Funk (feat. Bruno Mars),3hv9jJF3adDNsBSIQDqcjp,Mark Ronson,3vLaOYCNCzngDf8QdBg2V1,Uptown Special,2015-01-12,114.988,0.856,0.609,0,-7.223,0.00801,8.15e-05,0.0344,0.928,1.0,0.0824,audio_features,4.0
-2s4AcE9n80mSHl87lp4gIm,Wine Pon You (feat. Konshens),5cj0lLjcoR7YOSnhnX0Po5,Doja Cat,54tInqO543zy0Y5F2VsUQI,Amala,2018-03-30,95.035,0.797,0.444,9,-7.738,0.304,0.00126,0.107,0.138,0.0,0.0411,audio_features,4.0
+0mFSV2Bawz8i9wnlc9eYme,Problems,0e86yPdC41PGRkLp2Q1Bph,Mother Mother,5gDuz6zUpE30ShPTJQ6k1C,Eureka,2011-03-15,104.033,0.629,0.85,1,-3.653,0.00802,0.0284,0.155,0.526,1.0,0.0261,audio_features,4.0
 57LCM5uPQd73io05ucFRaT,I Don't Care,6eUKZXaKkcviH0Ku9w2n3V,Ed Sheeran,6zXmGM2NhYOnLbtvByRRRq,Pop Deluxe,2022-12-02,101.956,0.798,0.676,6,-5.041,0.0902,0,0.0894,0.843,1.0,0.0442,audio_features,4.0
 7DfFc7a6Rwfi3YQMRbDMau,Thinkin Bout You,2h93pZq0e7k5yf4dywlkpM,Frank Ocean,392p3shh2jkxUxY2VHvlH8,channel ORANGE,2012-07-10,129.83,0.721,0.339,0,-11.195,0.409,0.00153,0.0973,0.2,1.0,0.0532,audio_features,4.0
 69uxyAqqPIsUyTO8txoP2M,Adventure of a Lifetime,4gzpq5DPGxSnKTe4SA8HAU,Coldplay,3cfAM8b8KqJRoIzt3zLKqw,A Head Full of Dreams,2015-12-04,111.995,0.638,0.924,7,-3.887,0.00205,0.000175,0.149,0.53,1.0,0.036,audio_features,4.0
@@ -73,7 +73,7 @@ track_id,track_name,artist_id,artist_name,album_id,album_name,release_date,tempo
 6zVEtvj5yFCaJV7Np8pUlI,Cozy Little Christmas,6jJ0s89eD6GaHleKKya26X,Katy Perry,0ALamZ2UkTb5Vfyk4DDu2X,Karácsonyi Készülődés 2022,2022-12-01,137.494,0.775,0.608,7,-6.264,0.128,0,0.0895,0.56,1.0,0.128,audio_features,4.0
 5RP0T7OxpKSOfqGARMJKge,Family,1Cs0zKBU1kc0i8ypK3B9ai,David Guetta,0BtSQtK2OatAz3D1cgy0xX,Pop Hits 20s,2022-12-02,88.063,0.687,0.717,11,-6.61,0.0744,0,0.134,0.685,1.0,0.0755,audio_features,4.0
 51QEyJI5M7uyd8DOh9tqQY,Buzzcut Season,163tK9Wjr9P9DmM0AVK7lm,Lorde,0rmhjUgoVa17LZuS8xWQ3v,Pure Heroine,2013-09-27,111.039,0.733,0.62,1,-10.525,0.606,0.305,0.117,0.247,1.0,0.075,audio_features,4.0
-0dAb8TY433dl3ZfXYCLE19,All You Had To Do Was Stay,06HL4z0CvFAxyc27GXpf02,Taylor Swift,2QJmrSgbdM35R67eoGQo4j,1989,2014-10-27,96.969,0.602,0.736,5,-5.778,0.00196,4.57e-05,0.105,0.471,1.0,0.0338,audio_features,4.0
+1t8BW458Cv1rp2OayRunGc,Lose You To Love Me,0C8ZW7ezQVs4URX5aX7Kqx,Selena Gomez,1BBWetIYJcZKrnse8rIz0c,Pop Pop y más Pop,2022-12-02,102.819,0.516,0.342,4,-8.985,0.55,0,0.21,0.0993,1.0,0.0425,audio_features,4.0
 3Z8FwOEN59mRMxDCtb8N0A,Be Kind (with Halsey),64KEffDW9EtZ1y2vBYgq8T,Marshmello,1eleCBhP2R8TXEDquvybwC,Be Kind (with Halsey),2020-05-01,93.995,0.63,0.633,4,-7.088,0.00776,0,0.0541,0.452,1.0,0.0457,audio_features,4.0
 1PV9dtzC0wyx71YwoGDLiO,Uncle Iroh,4T8NIfZmVY6TJFqVzN6X49,tobi lou,5rrPZHmMDW7WrktbVjVJmw,Uncle Iroh,2019-12-20,156.026,0.771,0.621,0,-11.318,0.219,0,0.169,0.702,1.0,0.279,audio_features,4.0
 0awZwmlC6pxH65KTZpadmX,Freakin' Out On the Interstate,7vtSUU3zpHeYJfX6BPNrJd,Briston Maroney,0dXQf9UooGFoxLamqfkURl,Freakin' Out On The Interstate (Acoustic Version [Live]),2020-07-10,143.861,0.45,0.794,4,-5.015,0.388,0,0.303,0.362,1.0,0.0538,audio_features,4.0
