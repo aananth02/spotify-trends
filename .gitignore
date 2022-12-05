@@ -2,3 +2,4 @@ secrets.py
 .cache
 /__pycache__
 notes.txt
+.ipynb_checkpoints
